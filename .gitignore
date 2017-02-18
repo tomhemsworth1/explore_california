@@ -1,5 +1,6 @@
 .project
 tempfile.txt
+temfile2.txt
 *.zip
 *.gz
 log/*.log
